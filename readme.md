@@ -1,3 +1,5 @@
+This is the Official implementation of the Paper in Neurips 2025 [Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://neurips.cc/virtual/2025/loc/san-diego/poster/115456)
+
 ## Before you run the code.
 0. We don't provide the fine-tune code for GPT family as we fine-tune it with online UI in our experiments. 
 1. The code is used for replicate our attack.
